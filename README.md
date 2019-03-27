@@ -12,8 +12,8 @@
 For this lab you will:
 
 - write SQL statements against a pre-populated database using an online tool. Once you have the correct SQL Statement for each query, write it inside the `queries.md` file under the appropriate heading.
-- install [`SQLite Studio`](https://sqlitestudio.pl/index.rvt) and use it to create a database.
-- using `SQLite Studio` add a table to the database you just created.
+- [x] install [`SQLite Studio`](https://sqlitestudio.pl/index.rvt) and use it to create a database.
+- [x] using `SQLite Studio` add a table to the database you just created.
 
 ### Write Basic Queries
 
